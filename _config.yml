@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Yu Liu's Research website
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Yu Liu
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  bio: "A PhD Candidate in agricultural water management"
+  email: #yliu47@ncsu.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -20,9 +20,9 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: #asunnyf
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: #yliu47@ncsu.edu
   xing: #username
   instagram: #username
   lastfm: #username
